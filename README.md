@@ -43,7 +43,7 @@ Dunkel Grün Samt
 Leichtes Gold
 Zum Anbeißen
 
-![image-20191024232722888](img/image-20191024232722888.png)
+![](img/image-20191024233122723.png)
 
 ## Bildsprache 
 
