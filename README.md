@@ -43,7 +43,7 @@ Dunkel Grün Samt
 Leichtes Gold
 Zum Anbeißen
 
-![image-20191024232722888](/Users/mwolfs/Library/Application Support/typora-user-images/image-20191024232722888.png)
+![image-20191024232722888](img/image-20191024232722888.png)
 
 ## Bildsprache 
 
@@ -88,4 +88,4 @@ Geschenkidee: Ihr Glied als Wurst
 
 ## Der Konfigurator
 
-![image-20191024232659732](/Users/mwolfs/Library/Application Support/typora-user-images/image-20191024232659732.png)
+![image-20191024232659732](img/image-20191024232659732.png)
